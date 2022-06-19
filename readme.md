@@ -1,7 +1,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! 
 
-<a href="https://arshdeeps.com/"><img alt="personal site" src="https://static.wixstatic.com/media/c23f10_705b9d4abdeb41eb87d568e27e6bc2f8~mv2.gif" width="120"/></a> 
+<a href="https://arshdeeps.com/" target="_blank"><img alt="personal site" src="https://static.wixstatic.com/media/c23f10_705b9d4abdeb41eb87d568e27e6bc2f8~mv2.gif" width="120"/></a> 
 
 
 
