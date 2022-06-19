@@ -1,11 +1,12 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! 
 
-<a href="https://arshdeeps.com/" target="_blank">Personal Site</a> 
+<a href="https://arshdeeps.com/" target="_blank"><img src="https://bestanimations.com/media/earth/1404153328earth-spinning-rotating-animation-15.gif"></a> 
 
 
 💡 &nbsp;I'm a software engineer working on a personal startup and a SDE intern at Evergreen Investments.\
-💻 &nbsp;I'm currently a student at Hunter College in NYC. I'm seeking internships around SWE and SDE roles.\
+💻 &nbsp;I'm currently a student at Hunter College i[
+](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif)n NYC. I'm seeking internships around SWE and SDE roles.\
 🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development and Machine Learning/Artificial Intellilgence.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at sarshdeep2774@gmail.com.
