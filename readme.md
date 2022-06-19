@@ -1,5 +1,5 @@
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! 
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Hello there ! 
 
 <a href="https://arshdeeps.com/" target="_blank"><img src="https://bestanimations.com/media/earth/1404153328earth-spinning-rotating-animation-15.gif" width="75"></a> 
 
