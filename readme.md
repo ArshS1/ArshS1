@@ -8,7 +8,7 @@
 💻 &nbsp;I'm currently a student at Hunter College i[
 ](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif)n NYC. I'm seeking internships around SWE and SDE roles.\
 🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development and Machine Learning/Artificial Intellilgence.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions!\
 ✉️ &nbsp;You can email me at sarshdeep2774@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
