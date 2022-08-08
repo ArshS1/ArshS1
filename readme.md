@@ -7,7 +7,7 @@
 💡 &nbsp;I'm a software engineer working on a personal startup and currently a SDE intern at Evergreen Investments.\
 💻 &nbsp;I'm a student at Hunter College in[
 ](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif) NYC. I'm seeking internships in SWE and SDE roles.\
-🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development and Machine Learning/Artificial Intellilgence.\
+🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development, Machine Learning/Data Science, and DevOps.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions!\
 ✉️ &nbsp;You can email me at sarshdeep2774@gmail.com.
 
