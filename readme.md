@@ -9,7 +9,6 @@
 ](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif) NYC. I'm seeking internships in SWE and SDE roles.\
 🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development, Machine Learning/Data Science, and DevOps.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions!\
-✉️ &nbsp;You can email me at sarshdeep2774@gmail.com.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,15 +23,15 @@
 ![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![React](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-and more..
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp; 
 
 
 ### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/arshdsingh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sarshdeep2774@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/arshdsingh"><img alt="LinkedIn" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504799.png?token=exp=1660400600~hmac=ca4772934ffbff42c750b7310380abf9" width="50"/></a> &nbsp;
+<a href="mailto:sarshdeep2774@gmail.com"><img alt="Gmail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="50"/></a> &nbsp;
 
 
 
