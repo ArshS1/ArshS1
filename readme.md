@@ -30,7 +30,7 @@
 
 
 ### 📫 &nbsp; How to reach me:
-<a href="https://www.linkedin.com/in/arshdsingh"><img alt="LinkedIn" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504799.png?token=exp=1660400600~hmac=ca4772934ffbff42c750b7310380abf9" width="50"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/arshdsingh"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50"/></a> &nbsp;
 <a href="mailto:sarshdeep2774@gmail.com"><img alt="Gmail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="50"/></a> &nbsp;
 
 
