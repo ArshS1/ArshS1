@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.arshdeeps.com/">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/arshs1?cardType=github&theme=dark&preferLogin=false" /> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshs1&theme=tokyonight" /> 
   </a>
 </p>
 
