@@ -1,14 +1,14 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Hello there ! 
 
-<a href="https://arshdeeps.com/" target="_blank"><img src="https://bestanimations.com/media/earth/1404153328earth-spinning-rotating-animation-15.gif" width="75"></a> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshs1&theme=github_dark)
 
 
-💡 &nbsp;I'm a software engineer working on a personal startup and currently a SDE intern at Evergreen Investments.\
+💡 &nbsp;I'm an upcoming software engineer with 2 internships and a teaching experience in the field focusing in web development \
 💻 &nbsp;I'm a student at Hunter College in[
-](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif) NYC. I'm seeking internships in SWE and SDE roles.\
-🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development, Machine Learning/Data Science, and DevOps.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions!
+](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif) NYC pursing a major in Computer Science and a minor in Applied Mathematics\
+🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development, Machine Learning/Data Science, and DevOps\
+💬 &nbsp;Feel free to shoot a message 
 
 ### 🛠 &nbsp;Tech Stack
 
