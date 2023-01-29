@@ -1,7 +1,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> Hello there ! 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshs1&theme=github_dark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/arshs1?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 💡 &nbsp;I'm an upcoming software engineer with 2 internships and a teaching experience in the field focusing in web development \
