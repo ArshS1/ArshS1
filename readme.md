@@ -7,7 +7,7 @@
   </a>
 </p>
 
-💡 &nbsp;I'm an upcoming software engineer with 2 internships and a teaching experience in the field focusing in web development \
+💡 &nbsp;I'm an upcoming software engineer with 3 internships and a teaching experience in the field focusing in web development \
 💻 &nbsp;I'm a student at Hunter College in[
 ](https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif) NYC pursing a major in Computer Science and a minor in Applied Mathematics\
 🌱 &nbsp;I'm experienced in full-stack development. I'm learning about App development, Machine Learning/Data Science, and DevOps\
